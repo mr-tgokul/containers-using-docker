@@ -1,0 +1,6 @@
+Build Image :  
+
+docker build -t example1:1.0 . 
+
+Run Container :
+docker run example1:1.0 
