@@ -1,0 +1,12 @@
+Build :
+
+docker build -t example7:1.0 .
+
+
+Run :
+
+docker run example7:1.0 
+
+
+* Verify Files using :
+docker run -it example7:1.0 /bin/sh
