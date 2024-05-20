@@ -1,0 +1,3 @@
+* Copy Content from Github URL  - https://raw.githubusercontent.com/vishymails/DOCKERS-RAW/master/index.html 
+
+* Use a different name for Dockerfile instead of default name called Dockerfile

@@ -1,0 +1,17 @@
+Build - Different name for Docker File
+
+docker build -f add_copy -t example8:1.0 .
+
+
+-f = Dockerfile name
+
+
+Run :
+
+docker run -p 80:80 example8:1.0
+
+
+* Access :
+
+curl http://localhost:80
+
