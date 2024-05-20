@@ -1,0 +1,5 @@
+
+• Create a container to host NodeJS application
+
+• Create a folder and copy the folder called node-app which we cloned which will have package.json and server.js
+

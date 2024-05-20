@@ -1,0 +1,17 @@
+Build :
+
+docker build -t example5:1.0 .
+
+
+Run :
+
+docker run -p 8085:8080 example5:1.0
+
+
+Access :
+
+localhost:8085
+
+
+* It should display a Hello world application.
+
