@@ -1,0 +1,17 @@
+docker compose up
+
+
+Check Network has been created or Not :
+
+docker network ls
+
+
+Check Storage :
+
+* Connect to the container 
+
+docker exec -it <containername> /bin/bash
+
+cd /
+
+verify our storage folders has been created 

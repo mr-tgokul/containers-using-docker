@@ -1,1 +1,1 @@
-• Deploying 2 services using one Docker-Compose file 
+Deploy 2 different applications in 2 containers with our own network and volumes mounted.
