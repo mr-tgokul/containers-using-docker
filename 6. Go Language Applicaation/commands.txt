@@ -1,0 +1,12 @@
+Build :
+
+docker build -t example6:1.0
+
+
+Run :
+
+docker run example6:1.0
+
+
+* You will see the message -  " Welcome to GoLang and Docker "
+

@@ -1,0 +1,5 @@
+
+* Manifest file with 2 containers where one container with golang 3.8 which will compile gofile and build a exe to run and which will be run on container 2  - golang doesn’t need to be installed on container 2 
+
+* Container 1 will only compile and build exe which will not be exposed to public.
+* Container 2 will run the application and will be publicly exposed. 
