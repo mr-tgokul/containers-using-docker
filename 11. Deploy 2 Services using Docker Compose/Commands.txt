@@ -1,0 +1,11 @@
+docker-compose up
+
+
+Access nginx:
+
+http://localhost:9002/ 
+
+
+Access Microservices / Jar / SpringBoot application:
+
+http://localhost:9000/oracle/users 

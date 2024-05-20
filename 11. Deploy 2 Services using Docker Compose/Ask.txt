@@ -1,0 +1,1 @@
+• Deploying 2 services using one Docker-Compose file 
