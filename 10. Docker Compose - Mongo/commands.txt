@@ -1,0 +1,12 @@
+Run :
+
+docker-compose -f '.\mongo.yaml' up
+
+
+Access :
+
+localhost:8081
+
+
+username : admin
+Password : pass
