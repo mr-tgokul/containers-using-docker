@@ -1,0 +1,15 @@
+Build :
+
+docker build -t example9:1.0 .
+
+Run :
+
+docker run -p 5001:5000 example9:1.0
+
+
+Access :
+
+localhost:5001/predict
+
+
+curl http://localhost:5001

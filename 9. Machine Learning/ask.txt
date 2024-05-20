@@ -1,0 +1,7 @@
+Machine learning programmer has the training data csv file which he uses to train the machine , requirements.txt and a python program called model.py which has the machine data algorithm , regression testing and it takes the csv file content to train the machine.  
+
+1.	Clone the below Githib Repo and Browse to the folder
+
+Git clone = https://github.com/vishymails/DOCKER-ML-RAW.git
+
+
