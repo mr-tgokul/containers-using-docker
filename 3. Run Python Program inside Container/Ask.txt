@@ -1,0 +1,5 @@
+• Developer has created a Program written in Python 2.7 we need to run that inside the container
+
+• Create a folder called example3 and a subfolder called app
+
+• Create the python code and name it as sample.py under app folder

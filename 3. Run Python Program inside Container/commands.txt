@@ -1,0 +1,10 @@
+Build and Give folder name as input during runtime
+
+docker build --build-arg target_dir=./app -t example3 .
+
+Run :
+docker run example3 
+
+
+
+* You will be able to see the Python code as Output
