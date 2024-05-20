@@ -1,0 +1,19 @@
+Build :
+
+docker build -t example4:1.0 .
+
+Run :
+
+docker run -p 9000:9000 example4:1.0 .
+
+
+* Access the localhost using Port 9000/oracle/users
+
+or 
+
+* Login into the container - docker exec -it <containerid> /bin/bash
+
+curl http://localhost:9000/oracle/users
+
+
+You will be able to see the data !
