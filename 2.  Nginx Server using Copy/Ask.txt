@@ -1,0 +1,5 @@
+•	Create the Nginx Server by Copying the required configuration files from our System to the Container
+
+•	Clone the Github Repo  = https://github.com/vishymails/DOCKERS-RAW 
+
+•	Copy the folder and files from build_04_add to the newly created folder

@@ -1,0 +1,11 @@
+Build Image :
+docker build -t example2:1.0 .
+
+Run Container :
+docker run -p 8082:80 example2:1.0 
+
+* Access the localhosturl with Port 8082
+
+* Connect to the Container using docker exec -it <containerid> /bin/sh
+
+* CHeck wherther the files are copied!
