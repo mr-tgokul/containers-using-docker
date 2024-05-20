@@ -1,0 +1,6 @@
+Build Image :  * Change the Name of Target folder to anything required
+
+docker build --build-arg app_dir="Target_Folder" -t alpinemaster . 
+
+Run Container :
+docker run -it alpinemaster
